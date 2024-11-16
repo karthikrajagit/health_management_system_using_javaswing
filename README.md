@@ -1,1 +1,1 @@
-# health_management_system_using_javaswing
+This project was developed using Java Swing and the NetBeans IDE. It includes database connectivity. To use this project, you need to create a database using XAMPP. There are many videos available online that explain how to create a database and connect it to your project. Setting up the database is a prerequisite for this project. For database connectivity, you will need to use MySQL Connector.
